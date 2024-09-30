@@ -1,0 +1,27 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  position: fixed;
+
+  padding: 6px;
+  margin-top: 0;
+}
+
+.logo {
+  width: 90px;
+}
+
+.menu {
+  width: 30px;
+}
+
+.primero {
+  background-color: rgb(83, 156, 240);
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  display: flex;
+}
